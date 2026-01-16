@@ -1,0 +1,28 @@
+# Kotlin/Gradle
+.gradle/
+build/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Local properties
+local.properties
+*.local
+
+# Kotlin JS
+kotlin-js-store/
+
+# Android
+*.apk
+*.aab
+*.keystore
+
+# Generated files
+*.hprof
+captures/
